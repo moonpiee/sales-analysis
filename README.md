@@ -5,7 +5,7 @@ Data cleaning was done while querying few fields. It is then queried to analyse 
 2. What was the best year for sales?
 3. What was the best month for sales?
 4. Which country sold the most product?
-5. Who is the best customer?
+5. Who is the best customer of the company?
 6. Which customer to gain trust from yet?
 
 Data is then visualised using charts in google sheets.
